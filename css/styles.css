@@ -78,6 +78,7 @@ header .menu li a {
 .container {
   max-width: 1400px;
   margin: 0 auto;
+  font-family: 'Anton', sans-serif;
 }
 
 #home {
@@ -275,7 +276,8 @@ header .menu li a {
 
 #gallery .white-bg {
   background: white;
-  padding: 20px
+  padding: 20px;
+  margin-bottom: 20px
 }
 
 #gallery .white-bg h2 {
