@@ -287,6 +287,11 @@ header .menu li a {
 }
 
 
+#gallery .white-bg #imp {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 20px;
+}
 
 #gallery .white-bg ul {
   display: grid;
