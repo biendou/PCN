@@ -275,6 +275,8 @@ header .menu li a {
 }
 
 #gallery .white-bg {
+  width: 90%;
+  margin: auto;
   background: white;
   padding: 20px;
   margin-bottom: 20px
