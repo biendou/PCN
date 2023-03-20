@@ -45,6 +45,7 @@ header .logo {
 header .logo a {
   color: white;
   text-decoration: none;
+  font-size: 100%;
 }
 
 header .menu ul {
