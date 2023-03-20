@@ -336,8 +336,8 @@ header .menu li a {
 
 .story {
   margin: 20px;
-  background: rgb(73, 180, 58);
-  background: linear-gradient(90deg, rgba(73, 180, 58, 1) 0%, rgba(233, 253, 29, 1) 49%, rgba(252, 69, 69, 1) 100%);
+  background: linear-gradient(135deg, rgba(72, 180, 58, 0.4) 0%, rgba(233, 253, 29, 0.4) 49%, rgba(252, 69, 69, 0.4) 100%);
+  background-color: antiquewhite;
   border-radius: 20px;
 
 
