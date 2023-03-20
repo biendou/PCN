@@ -275,6 +275,7 @@ header .menu li a {
 }
 
 #gallery .white-bg {
+  border-radius: 20px;
   width: 90%;
   margin: auto;
   background: white;
@@ -318,6 +319,7 @@ header .menu li a {
   background: rgba(0, 0, 0, 0.5);
   transition: all .4s ease-in-out;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 #gallery .white-bg ul li:hover .hover-bg {
@@ -366,5 +368,6 @@ audio {
 }
 
 img {
+  border-radius: 10px;
   border: 2px solid black;
 }
